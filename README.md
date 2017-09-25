@@ -1,2 +1,2 @@
 # jColumniser
-Textfile parser
+Yet another textfile parser on java
